@@ -4,9 +4,6 @@ This is a sample "Hello World" project following the standard maven conventions.
 
 This project will be used to demonstrate the Apache Maven features in IntelliJ IDEA.
 
-== GitHub Coordinates
-
-image:../RepoLogo.png[align="center"]
 
 == Project Structure
 
